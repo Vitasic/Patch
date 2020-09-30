@@ -4,7 +4,7 @@ git touth ./
 git add *
 git commit -m "Core/Chat"
 git push
-
+# We aere the best
 Merge: mmaps
 git remote add off_repo https://github.com/garyfisher/GaryMoveOut.git
 git fetch off_repo
@@ -48,7 +48,7 @@ git checkout master
 git pull off_repo master
 git push
 
----- панды
+---- ГЇГ Г­Г¤Г»
 git remote add off_repo https://github.com/TrinityCore/TrinityCore.git
 git fetch off_repo
 git checkout -b off_repo off_repo/4.3.4
@@ -97,11 +97,11 @@ git pull git://github.com/TrinityCore/TrinityCore.git mmaps
 
 git show $commit > file_name.patch
 
-git reset --hard HEAD~1 — больше никто и никогда не увидит этот позорный коммит.
+git reset --hard HEAD~1 вЂ” ГЎГ®Г«ГјГёГҐ Г­ГЁГЄГІГ® ГЁ Г­ГЁГЄГ®ГЈГ¤Г  Г­ГҐ ГіГўГЁГ¤ГЁГІ ГЅГІГ®ГІ ГЇГ®Г§Г®Г°Г­Г»Г© ГЄГ®Г¬Г¬ГЁГІ.
 
-git reset --hard HEAD~3 — вернее, три последних коммита. Никто. Никогда.
+git reset --hard HEAD~3 вЂ” ГўГҐГ°Г­ГҐГҐ, ГІГ°ГЁ ГЇГ®Г±Г«ГҐГ¤Г­ГЁГµ ГЄГ®Г¬Г¬ГЁГІГ . ГЌГЁГЄГІГ®. ГЌГЁГЄГ®ГЈГ¤Г .
 git push -f origin
 
-git branch -D имя_ветки
+git branch -D ГЁГ¬Гї_ГўГҐГІГЄГЁ
 
 http://wiki.dieg.info/git
